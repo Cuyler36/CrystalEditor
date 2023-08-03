@@ -1,0 +1,32 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="ResourceDictionaryName">Loc-en-US</sys:String>
+    <!-- Menu -->
+    <sys:String x:Key="MenuOpen">_Open</sys:String>
+    <sys:String x:Key="MenuSave">_Save</sys:String>
+    <sys:String x:Key="OpenManually">_Select File...</sys:String>
+    <sys:String x:Key="DumpJSON">_Dump Save as JSON</sys:String>
+    <sys:String x:Key="Decompress">Decompress File</sys:String>
+
+    <!-- Game Strings -->
+    <sys:String x:Key="Gil">Gil</sys:String>
+    <sys:String x:Key="Elementite">Elementite</sys:String>
+    <sys:String x:Key="CountryName">Country Name</sys:String>
+    <sys:String x:Key="PlayerName">Player Name</sys:String>
+    <sys:String x:Key="Days">Days</sys:String>
+    <sys:String x:Key="Defeated">Defeated</sys:String>
+    <sys:String x:Key="Flags">Flags</sys:String>
+    <sys:String x:Key="Combatant">Combatant Data</sys:String>
+    <sys:String x:Key="Game">Game</sys:String>
+    <sys:String x:Key="Heros">Heros</sys:String>
+    <sys:String x:Key="City">City</sys:String>
+    <sys:String x:Key="Buildings">Buildings</sys:String>
+    <sys:String x:Key="Hero">Hero</sys:String>
+    <sys:String x:Key="Medals">Medals</sys:String>
+    <sys:String x:Key="Villager">Villager</sys:String>
+    <sys:String x:Key="Villagers">Villagers</sys:String>
+    <sys:String x:Key="Dungeons">Dungeons</sys:String>
+    <sys:String x:Key="WanderingMonsters">Wandering Monsters</sys:String>
+    <sys:String x:Key="Inventory">Inventory</sys:String>
+</ResourceDictionary>

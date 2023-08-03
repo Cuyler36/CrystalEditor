@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Crystal_Editor
+namespace CrystalEditor.WPF
 {
     /// <summary>
     /// Interaction logic for App.xaml
