@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalEditor.WPF", "Crystal Editor\CrystalEditor.WPF.csproj", "{0E47B7DD-FE03-4DF6-A5C9-1D999B2D0416}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalEditor.WPF", "CrystalEditor.WPF\CrystalEditor.WPF.csproj", "{0E47B7DD-FE03-4DF6-A5C9-1D999B2D0416}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalEditor.Core", "CrystalEditor.Core\CrystalEditor.Core.csproj", "{A3940BC7-0719-4096-80C5-18C51FA2021D}"
 EndProject
